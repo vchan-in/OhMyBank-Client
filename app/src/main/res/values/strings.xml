@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OhMyBank</string>
+    <string name="contact_list_top_bar">OhMyBank!</string>
+    <string name="contact_list_title">USER LIST</string>
+    <string name="user_avatar_description">User avatar</string>
+    <string name="navigation_description">Navigate to contact activities</string>
+    <string name="user_post_appbar_title">User Activities</string>
+    <string name="navigation_back_description">Go back</string>
+</resources>
